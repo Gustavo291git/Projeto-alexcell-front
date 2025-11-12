@@ -1,4 +1,4 @@
-##Protótipo AlexCell
+Protótipo AlexCell
 Tema, Objetivo e Público-Alvo Tema: Loja de Acessórios para Celular (E-commerce).
 
 Objetivo: Criar uma plataforma de e-commerce acessível e intuitiva para a AlexCell, permitindo que os clientes da loja física façam compras online com facilidade.
